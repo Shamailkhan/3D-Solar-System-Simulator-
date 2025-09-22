@@ -31,7 +31,7 @@ A real-time **3D Solar System Simulator** built with **Qt + OpenGL + C++**, feat
 
 * Install [Qt](https://www.qt.io/download-open-source) (with MinGW on Windows or system packages on Linux).
 * Install [CMake](https://cmake.org/download/).
-* Install [Visual Studio Code](https://code.visualstudio.com/) or use **Qt Creator**.
+* Install [Visual Studio ] or use **Qt Creator**.
 
 ### 2. Clone Repository
 
