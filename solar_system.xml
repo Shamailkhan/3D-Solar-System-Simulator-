@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="solar_system.jpg">
+
+    <!-- Row 0 -->
+    <SubTexture name="Planet1"  x="0"    y="0"   width="166" height="200"/>
+    <SubTexture name="Planet2"  x="166"  y="0"   width="166" height="200"/>
+    <SubTexture name="Planet3"  x="332"  y="0"   width="166" height="200"/>
+    <SubTexture name="Planet4"  x="498"  y="0"   width="166" height="200"/>
+    <SubTexture name="Planet5"  x="664"  y="0"   width="166" height="200"/>
+    <SubTexture name="Planet6"  x="830"  y="0"   width="166" height="200"/>
+
+    <!-- Row 1 -->
+    <SubTexture name="Planet7"  x="0"    y="200" width="166" height="200"/>
+    <SubTexture name="Planet8"  x="166"  y="200" width="166" height="200"/>
+    <SubTexture name="Planet9"  x="332"  y="200" width="166" height="200"/>
+    <SubTexture name="Planet10" x="498"  y="200" width="166" height="200"/>
+    <SubTexture name="Planet11" x="664"  y="200" width="166" height="200"/>
+    <SubTexture name="Planet12" x="830"  y="200" width="166" height="200"/>
+
+    <!-- Row 2 -->
+    <SubTexture name="Planet13" x="0"    y="400" width="166" height="200"/>
+    <SubTexture name="Planet14" x="166"  y="400" width="166" height="200"/>
+    <SubTexture name="Planet15" x="332"  y="400" width="166" height="200"/>
+    <SubTexture name="Planet16" x="498"  y="400" width="166" height="200"/>
+    <SubTexture name="Saturn"   x="664"  y="400" width="166" height="200"/>
+
+</TextureAtlas>
