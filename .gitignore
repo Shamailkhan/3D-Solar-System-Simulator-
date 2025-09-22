@@ -1,0 +1,79 @@
+# ---- Qt / C++ build artifacts ----
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.lib
+*.so
+*.so.*
+*.dll
+*.dylib
+*.qmake.stash
+*.qmake.cache
+Makefile*
+qrc_*.cpp
+moc_*.cpp
+moc_*.h
+ui_*.h
+
+# ---- CMake build folders ----
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# ---- Qt Creator / VS Code settings ----
+*.pro.user
+*.pro.user.*
+*.creator
+*.creator.user
+*.creator.user.*
+*.autosave
+*.qmlproject.user*
+*.includes
+*.files
+
+# ---- Build output directories ----
+/build/
+/build-*/
+out/
+bin/
+debug/
+release/
+dist/
+
+# ---- Logs / temp ----
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+*.cache
+.DS_Store
+Thumbs.db
+
+# ---- VS Code ----
+.vscode/
+.vscode/*
+!.vscode/settings.json   # (optional: keep team settings)
+!.vscode/tasks.json      # (optional: keep build tasks)
+!.vscode/launch.json     # (optional: keep debugger config)
+!.vscode/extensions.json # (optional: keep recommended extensions)
+
+# ---- Windows / Linux / macOS extras ----
+*.exe
+*.app
+*.ico
+*.pdb
+*.ilk
+*.idb
+*.class
+*.db
+*.directory
