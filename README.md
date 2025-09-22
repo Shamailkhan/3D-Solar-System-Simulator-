@@ -101,7 +101,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 * Qt Framework – [https://www.qt.io](https://www.qt.io)
 * OpenGL – [https://www.opengl.org](https://www.opengl.org)
-* NASA Planet Textures – [https://www.solarsystemscope.com/textures](https://www.solarsystemscope.com/textures)
+
 
 ---
 
