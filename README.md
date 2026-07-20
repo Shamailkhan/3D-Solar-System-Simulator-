@@ -102,9 +102,3 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 * Qt Framework – [https://www.qt.io](https://www.qt.io)
 * OpenGL – [https://www.opengl.org](https://www.opengl.org)
 
-
----
-
-👉 This structure makes your README professional and clear for anyone landing on your repo.
-
-Would you like me to also create a **badge-style header** (build status, license, language) like the ones you see in popular GitHub projects?
